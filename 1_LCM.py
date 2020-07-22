@@ -1,4 +1,4 @@
-# Python program to calculate the LCM and HCF of more then two no's
+# Python program to find the LCM of more then two no's
 
 def find_lcm(a,b):
     if a>b:
